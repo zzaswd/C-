@@ -1,0 +1,21 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+﻿  p379_Inheritance.cpp
+C:\C_plus\220531_cpp\p379_Inheritance.cpp(31,7): warning C4091: '': 변수를 선언하지 않으면 'Point' 왼쪽은 무시됩니다.
+  220531_cpp.vcxproj -> C:\C_plus\220531_cpp\Debug\220531_cpp.exe
+=======
+﻿  p379_Inheritance.cpp
+C:\C_plus\220531_cpp\p379_Inheritance.cpp(31,7): warning C4091: '': 변수를 선언하지 않으면 'Point' 왼쪽은 무시됩니다.
+  220531_cpp.vcxproj -> C:\C_plus\220531_cpp\Debug\220531_cpp.exe
+>>>>>>> 603b48ffec7aa533bb43ac8f75aa278c8fbda364
+=======
+﻿  p379_Inheritance.cpp
+C:\C_plus\220531_cpp\p379_Inheritance.cpp(31,7): warning C4091: '': 변수를 선언하지 않으면 'Point' 왼쪽은 무시됩니다.
+  220531_cpp.vcxproj -> C:\C_plus\220531_cpp\Debug\220531_cpp.exe
+>>>>>>> 603b48ffec7aa533bb43ac8f75aa278c8fbda364
+=======
+﻿  p379_Inheritance.cpp
+C:\C_plus\220531_cpp\p379_Inheritance.cpp(31,7): warning C4091: '': 변수를 선언하지 않으면 'Point' 왼쪽은 무시됩니다.
+  220531_cpp.vcxproj -> C:\C_plus\220531_cpp\Debug\220531_cpp.exe
+>>>>>>> 603b48ffec7aa533bb43ac8f75aa278c8fbda364

@@ -1,0 +1,6 @@
+target/*
+META-INF/*
+.springBeans
+dirName/opencv*
+dirName/OpenCV*
+*.mp4

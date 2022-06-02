@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+C:\C_plus\220530_cpp\Debug\220530_cpp.exe
+=======
+C:\C_plus\220530_cpp\Debug\220530_cpp.exe
+>>>>>>> 603b48ffec7aa533bb43ac8f75aa278c8fbda364
+=======
+C:\C_plus\220530_cpp\Debug\220530_cpp.exe
+>>>>>>> 603b48ffec7aa533bb43ac8f75aa278c8fbda364
+=======
+C:\C_plus\220530_cpp\Debug\220530_cpp.exe
+>>>>>>> 603b48ffec7aa533bb43ac8f75aa278c8fbda364
