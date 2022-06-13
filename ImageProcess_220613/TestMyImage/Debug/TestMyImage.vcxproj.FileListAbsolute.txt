@@ -1,1 +1,2 @@
 C:\C_plus\ImageProcess\TestMyImage\Debug\TestMyImage.exe
+C:\C_plus\ImageProcess_220613\TestMyImage\Debug\TestMyImage.exe

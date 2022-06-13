@@ -1,8 +1,8 @@
 ﻿  TestMyImage.cpp
-C:\C_plus\ImageProcess\TestMyImage\imageSrc\MyImage.h(196,30): warning C4838: 'int'에서 'BYTE'(으)로의 변환에는 축소 변환이 필요합니다.
-C:\C_plus\ImageProcess\TestMyImage\imageSrc\MyImage.h(158): message : 클래스 템플릿 멤버 함수 'bool CMyImage<BYTE>::SaveImage(const char *)'을(를) 컴파일하는 중입니다.
-C:\C_plus\ImageProcess\TestMyImage\TestMyImage.cpp(43): message : 컴파일되는 함수 템플릿 인스턴스화 'bool CMyImage<BYTE>::SaveImage(const char *)'에 대한 참조를 확인하세요.
-C:\C_plus\ImageProcess\TestMyImage\TestMyImage.cpp(7): message : 컴파일되는 클래스 템플릿 인스턴스화 'CMyImage<BYTE>'에 대한 참조를 확인하세요.
-C:\C_plus\ImageProcess\TestMyImage\imageSrc\MyImage.h(196,32): warning C4838: 'int'에서 'BYTE'(으)로의 변환에는 축소 변환이 필요합니다.
-C:\C_plus\ImageProcess\TestMyImage\imageSrc\MyImage.h(196,34): warning C4838: 'int'에서 'BYTE'(으)로의 변환에는 축소 변환이 필요합니다.
-  TestMyImage.vcxproj -> C:\C_plus\ImageProcess\TestMyImage\Debug\TestMyImage.exe
+C:\C_plus\ImageProcess_220613\TestMyImage\imageSrc\MyImage.h(196,30): warning C4838: 'int'에서 'BYTE'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\C_plus\ImageProcess_220613\TestMyImage\imageSrc\MyImage.h(158): message : 클래스 템플릿 멤버 함수 'bool CMyImage<BYTE>::SaveImage(const char *)'을(를) 컴파일하는 중입니다.
+C:\C_plus\ImageProcess_220613\TestMyImage\TestMyImage.cpp(56): message : 컴파일되는 함수 템플릿 인스턴스화 'bool CMyImage<BYTE>::SaveImage(const char *)'에 대한 참조를 확인하세요.
+C:\C_plus\ImageProcess_220613\TestMyImage\TestMyImage.cpp(7): message : 컴파일되는 클래스 템플릿 인스턴스화 'CMyImage<BYTE>'에 대한 참조를 확인하세요.
+C:\C_plus\ImageProcess_220613\TestMyImage\imageSrc\MyImage.h(196,32): warning C4838: 'int'에서 'BYTE'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\C_plus\ImageProcess_220613\TestMyImage\imageSrc\MyImage.h(196,34): warning C4838: 'int'에서 'BYTE'(으)로의 변환에는 축소 변환이 필요합니다.
+  TestMyImage.vcxproj -> C:\C_plus\ImageProcess_220613\TestMyImage\Debug\TestMyImage.exe
